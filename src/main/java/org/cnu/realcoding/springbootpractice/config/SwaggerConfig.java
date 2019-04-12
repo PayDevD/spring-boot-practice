@@ -1,4 +1,4 @@
-package org.cnu.realcoding.springbootpractice.api;
+package org.cnu.realcoding.springbootpractice.config;
 
 import com.google.common.base.Predicate;
 import com.google.common.base.Predicates;
